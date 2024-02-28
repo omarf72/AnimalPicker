@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class App {
-    public static void drawArt() throws Exception
+    public static void drawArt() 
         {
             Scanner scan= new Scanner(System.in);
             System.out.println("Hi would you like to see a dog or cat");
