@@ -10,10 +10,13 @@ public class App {
 
             if (answer.equals("dog")) {
                 System.out.println("Dog ACSII Art Here");
+                System.out.println("(\\,--------\'()\'--o\n (_    ___    /~\"\n  (_)_)  (_)_)");
             }
 
             else if(answer.equals("cat")){
                 System.out.println("Cat ACSII Art Here");
+                System.out.println(
+" _._     _,-\'\"\"`-._\n(,-.`._,\'(       |\\`-/|\n    `-.-\' \\ )-`( , o o)\n          `-    \\`_`\"\'-");
             }
 
             else {
